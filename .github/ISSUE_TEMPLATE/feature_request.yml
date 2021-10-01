@@ -1,12 +1,12 @@
 name: Feature Request
-description: Request a new feature that you would like to be part of the Postman platform. 
+description: Request a new feature that you would like to be part of the Mockswitch platform. 
 title: "<title>"
 labels: "feature"
 body:
 - type: checkboxes
   attributes:
     label: Is there an existing request for this feature?
-    description: Please search to see if a feature request already exists. [Github Issue Tracker](https://github.com/postmanlabs/postman-app-support/issues)
+    description: Please search to see if a feature request already exists. [Github Issue Tracker](https://github.com/Mockswitchlabs/Mockswitch-app-support/issues)
     options:
     - label: I have searched the existing issues for this feature request
       required: true

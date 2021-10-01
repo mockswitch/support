@@ -1,11 +1,11 @@
 name: Bug Report
-description: Report an issue with the Postman platform. 
+description: Report an issue with the Mockswitchtch platform. 
 title: "<title>"
 body:
 - type: checkboxes
   attributes:
     label: Is there an existing issue for this?
-    description: Please search to see if an issue already exists for the issue you encountered. [Github Issue Tracker](https://github.com/postmanlabs/postman-app-support/issues)
+    description: Please search to see if an issue already exists for the issue you encountered. [Github Issue Tracker](https://github.com/Mockswitchlabs/Mockswitch-app-support/issues)
     options:
     - label: I have searched the existing issues
       required: true
@@ -41,12 +41,12 @@ body:
     description: |
       examples:
         - **Operating System**: Ubuntu 20.04
-        - **Platform Type**: Native App / Postman Web
-        - **Postman Version**: 8.8.0
+        - **Platform Type**: Native App / Mockswitch Web
+        - **Mockswitch Version**: 8.8.0
     value: |
         - Operating System: 
         - Platform Type: 
-        - Postman Version: 
+        - Mockswitch Version: 
     render: markdown
   validations:
     required: true
