@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Mockswitch Documentation Issues
+    url: https://github.com/mockswitch/docs/issues/new
+    about: Please file all documentation related issues here
