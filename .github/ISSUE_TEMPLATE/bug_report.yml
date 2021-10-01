@@ -1,5 +1,5 @@
 name: Bug Report
-description: Report an issue with the Mockswitchtch platform. 
+description: Report an issue with the Mockswitch platform. 
 title: "<title>"
 body:
 - type: checkboxes
