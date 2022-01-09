@@ -1,5 +1,9 @@
 # Hello from Mockswitch Support
 
+Demo video
+
+https://www.youtube.com/watch?v=y6FXsEn2JnU
+
 [![mockswitch](https://snapcraft.io/mockswitch/badge.svg)](https://snapcraft.io/mockswitch)
 ![mockswitch_banner](https://user-images.githubusercontent.com/87838981/135587679-d356d227-6805-4fcb-aa20-242374f7aab6.png)
 
